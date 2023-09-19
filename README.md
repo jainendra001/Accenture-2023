@@ -1,3 +1,6 @@
+**Hackathon** : *Accenture Innovation Challenge 2023*  
+**Team Name** :*Pitchers*  
+**Members** : [Jainendra Tripathy](https://github.com/jainendra001) , [Ratul Saha](https://github.com/Ratul-Saha-003) , [Raj Sahu](https://github.com/rajsahu2004) , [Mahfooz Alam](https://github.com/IamMahfooz) .
 # Personal Medical Record Management Application
 
 Welcome to the Personal Medical Record Management Application! This application aims to revolutionize the management of electronic health records (EHRs) by leveraging blockchain technology. The app focuses on addressing challenges related to interoperability and privacy in the healthcare sector, ensuring secure and efficient access to medical records.
