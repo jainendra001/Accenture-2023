@@ -1,0 +1,27 @@
+<app-navigation></app-navigation>
+<div class="home container-fluid">
+  <video autoplay muted loop class="video-background">
+    <source src="../../assets/images/v5.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <section class="her-wrap js-fullheight" data-section="home" data-stellar-background-ratio="0.5">
+    <div class="container">
+      <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start"
+        data-scrollax-parent="true">
+        <h1 class="head">Welcome to CryptoMedi</h1>
+        <div class="book">
+          <p class="mb-4"></p>
+          <p><a [routerLink]="['appointment']" class="btn btn-primary button py-3 px-4 rounded-pill">Make an appointment</a></p>
+          <p><a class="btn btn-primary button py-3 px-4 rounded-pill" [routerLink]="'patient'">Patient</a></p>
+          <p><a class="btn btn-primary button py-3 px-4 rounded-pill" [routerLink]="'doctor'">Doctor</a></p>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<app-getstart></app-getstart>
+<app-sec></app-sec>
+<app-contact></app-contact>
+
+<app-footer></app-footer>
